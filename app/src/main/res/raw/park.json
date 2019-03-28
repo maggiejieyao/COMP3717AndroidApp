@@ -1,0 +1,128 @@
+[{
+    "category": "Park",
+    "name":"Queens Park",
+    "address": "Address: 3rd Ave, New Westminster, BC V3M 1V2",
+    "longitude": "49.210838475275544",
+    "latitude":"-122.90169404851203",
+    "imgId":"park_one"
+},{
+    "category":"Park",
+    "name":"Moody Park",
+    "address":"Address: 600 8th St, New Westminster, BC V3M 3S2",
+    "longtitude":"49.21386827563567",
+    "latitude":"-122.9276924813239",
+    "imgId":"park_two"
+},{
+    "category":"Park",
+    "name":"Sapperton Park",
+    "address":"Address: 351 E Columbia St, New Westminster, BC V3L 3W8",
+    "longtitude":"49.22757556214183",
+    "latitude":"-122.89571072112105",
+    "imgId":"park_three"
+},{
+    "category":"Park",
+    "name":"Grimston Park",
+    "address":"Address: 1900 Seventh Ave, New Westminster, BC V3M 2L3",
+    "longtitude":"49.20195120474281",
+    "latitude":"-122.9421788014954",
+    "imgId":"park_four"
+},{
+    "category":"Park",
+    "name":"Glenbrook Ravine Park",
+    "address":"Address: 76 Jamieson Ct, New Westminster, BC V3L 5R6",
+    "longtitude":"49.21598002532423",
+    "latitude":"-122.89663879648718",
+    "imgId":"park_five"
+},{
+    "category":"Park",
+    "name":"Terry Hughes Park",
+    "address":"Address: 8 Eighth Ave, New Westminster, BC V3L",
+    "longtitude":"49.22079617895407",
+    "latitude":"-122.91049775411048",
+    "imgId":"park_six"
+},{
+    "category":"Park",
+    "name":"Friendship Gardens",
+    "address":"Address: 511 RoyalAve, New Westminster, BC V3L 1H9",
+    "longtitude":"49.207152069252366",
+    "latitude":"-122.90866872114296",
+    "imgId":"park_seven"
+},{
+    "category":"Park",
+    "name":"Waterfront Esplanade",
+    "address":"Address: 1260 Quayside Dr, New Westminster, BC V3M 6E1",
+    "longtitude":"49.19961100332096",
+    "latitude":"-122.92731737142148",
+    "imgId":"park_eight"
+},{
+    "category":"Park",
+    "name":"Queensborough Community Centre",
+    "address":"Address: 920 Ewen Ave, New Westminster, BC V3M 5C8",
+    "longtitude":"49.186684072609616",
+    "latitude":"-122.94199712925631",
+    "imgId":"park_nine"
+},{
+    "category":"Park",
+    "name":"Glenbrook Community Centre",
+    "address":"Address: 76 Jamieson Ct, New Westminster, BC V3L 5P9",     
+    "longtitude":"49.21598002532423",
+    "latitude":"-122.89663879648718",
+    "imgId":"park_10"
+},{
+    "category":"Park",
+    "name":"Old Schoolhouse Park",
+    "address":"Address: 518 Ewen Ave, New Westminster, BC V3M 5B1",     
+    "longtitude":"49.19067392317181",
+    "latitude":"-122.93340371104995",
+    "imgId":"park_11"
+},{
+    "category":"Park",
+    "name":"Port Royal Park",
+    "address":"Address:  215 Salter St, New Westminster, BC V3M 5B1",     
+    "longtitude":"49.19961100332096",
+    "latitude":"-122.92731737142148",
+    "imgId":"park_12"
+},{
+     "category":"Park",
+    "name":"Toronto Place Park",
+    "address":"Address:  215 Salter St, New Westminster, BC V3M 5B1",     
+    "longtitude":"49.19961100332096",
+    "latitude":"-122.92731737142148",
+    "imgId":"park_13"
+    
+},{
+    "category":"Park",
+    "name":"Westburnco Sports Courts",
+    "address":"Address: 111 8th St, New Westminster, BC V3M 3P6",   
+    "longtitude":"49.204285124477735",
+    "latitude":"-122.91507027770497",
+    "imgId":"park_14"
+},{
+    "category":"Park",
+    "name":"Dunwood Place Park",
+    "address":"Address: 111 8th St, New Westminster, BC V3M 3P6",   
+    "longtitude":"49.22394653296231",
+    "latitude":"-122.91713380669302",
+    "imgId":"park_15"
+},{
+    "category":"Park",
+    "name":"Sinclair Park",
+    "address":"Address:114 Sinclair Ave, New Westminster, BC V3L 1Z9",   
+    "longtitude":"49.22122365901408",
+    "latitude":"-122.91774219337753",
+    "imgId":"park_16"
+},{
+    "category":"Park",
+    "name":"Sullivan Park",
+    "address":"Address: 315 Oliver St, New Westminster, BC V3L 2P3",   
+    "longtitude":"49.204285124477735",
+    "latitude":"-122.91507027770497",
+    "imgId":"park_17"
+},{
+    "category":"Park",
+    "name":"Tipperary Park",
+    "address":"Address: 315 Queens Ave, New Westminster, BC V3L 1K1",   
+    "longtitude":"49.20795626549985",
+    "latitude":"-122.90717801286186",
+    "imgId":"park_18"
+}]
